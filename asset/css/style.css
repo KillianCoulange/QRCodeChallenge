@@ -55,8 +55,3 @@ p.bold {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-@media (min-width: 376px) {
-  main {
-    height: 80%;
-  }
-}
