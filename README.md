@@ -31,9 +31,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### How I build
 
-I create my repo on git hub. Then I copy the project from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-6t4kFprhG).
-After reading the [README](./vendor/README.md), I open the JPG images of design on krita to calculate the different spacing design.
-Then I build my html structure, and finally I write my css.
+I create my repo on GitHub. Then I copy the project from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-6t4kFprhG).
+After reading the [README](./vendor/README.md), I open the JPG images of the design on Krita to calculate the different spacing design.
+Then I build my HTML structure, and finally I write my CSS.
 
 ### What I learned
 
@@ -48,7 +48,7 @@ I've been some problem with collapsing margins, that was my first time and I saw
 
 ### Useful resources
 
-- [Collapse margin](https://www.alsacreations.com/article/lire/629-fusion-des-marges.html) - This helped me for resolve a proble of margin on my div.
+- [Collapse margin](https://www.alsacreations.com/article/lire/629-fusion-des-marges.html) - This helped me to resolve a proble of margin on my div.
 
 ## Author
 
