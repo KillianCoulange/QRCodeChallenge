@@ -39,7 +39,6 @@ Then I build my HTML structure, and finally I write my CSS.
 
 I learn how write a README file.
 I've been some problem with collapsing margins, that was my first time and I saw that I can resolve the problem with something like that :
-
 ```css
 #card {
   overflow: hidden;
