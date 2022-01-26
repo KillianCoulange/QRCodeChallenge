@@ -6,27 +6,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [How I build](#how-i-build)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![](./asset/img/screenshot.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![](./asset/img/Desktop.PNG)
+![](./asset/img/Mobile.PNG)
 
 ## My process
 
@@ -35,23 +27,30 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
+
+### How I build
+
+I create my repo on git hub. Then I copy the project from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-6t4kFprhG).
+After reading the [README](./vendor/README.md), I open the JPG images of design on krita to calculate the different spacing design.
+Then I build my html structure, and finally I write my css.
 
 ### What I learned
 
 I learn how write a README file.
+I've been some problem with collapsing margins, that was my first time and I saw that I can resolve the problem with something like that :
 
-### Continued development
+```css
+#card {
+  overflow: hidden;
+}
+```
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Collapse margin](https://www.alsacreations.com/article/lire/629-fusion-des-marges.html) - This helped me for resolve a proble of margin on my div.
 
 ## Author
 
 - Website - [Killian Coulange](https://github.com/Genshie)
 - Frontend Mentor - [@Genshie](https://www.frontendmentor.io/profile/Genshie)
-
-## Acknowledgments
